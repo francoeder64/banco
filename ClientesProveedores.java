@@ -37,6 +37,9 @@ public class ClientesProveedores  extends Entidad{
     public ClientesProveedores() {
     }
 
+	/// una modificacionklklkl
+	
+	
     public ClientesProveedores(int idprovclient, String nombres, String apellidos, String DUI, String correo, String telefono, char tipo) {
         this.idprovclient = idprovclient;
         this.nombres = nombres;
