@@ -35,6 +35,7 @@ public class ClientesProveedores  extends Entidad{
     private char tipo;
 
     public ClientesProveedores() {
+		///
     }
 
     public ClientesProveedores(int idprovclient, String nombres, String apellidos, String DUI, String correo, String telefono, char tipo) {
