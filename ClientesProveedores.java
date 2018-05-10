@@ -35,6 +35,7 @@ public class ClientesProveedores  extends Entidad{
     private char tipo;
 
     public ClientesProveedores() {
+		///
     }
 
 	/// una modificacionklklkl
